@@ -1,0 +1,24 @@
+.search-box{
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+
+    width: 100%;
+    height: 65px;
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    margin-top: 73px;
+}
+
+.search-box .icon{
+    padding: 0 20px;
+}
+
+.search-box .text{
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 18px;
+    opacity: 0.5;
+}
