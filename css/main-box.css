@@ -10,6 +10,12 @@
     color: #000;
 
     margin-bottom: 50px;
+
+    cursor: pointer;
+}
+
+.main-box:hover{
+    border: 1px solid #574AE8;
 }
 
 .main-box .topLine{
@@ -36,4 +42,8 @@
     font-size: 18px;
 
     text-align: left;
+}
+
+.main-box .topLine .heart:hover{
+    fill: #574AE8;
 }
