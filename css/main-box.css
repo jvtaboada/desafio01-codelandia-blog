@@ -31,7 +31,7 @@
 
 .main-box .title{
     color: #1A202C;
-    font-size: 26px;
+    font-size: 1.625rem;
 
     text-align: left;
     margin-bottom: 8px;
@@ -39,7 +39,7 @@
 
 .main-box .text{
     color: #717171;
-    font-size: 18px;
+    font-size: 1.125rem;
 
     text-align: left;
 }
