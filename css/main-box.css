@@ -15,7 +15,7 @@
 }
 
 .main-box:hover{
-    border: 1px solid #574AE8;
+    background-color: rgba(255, 255, 255, 0.432);
 }
 
 .main-box .topLine{
@@ -42,8 +42,4 @@
     font-size: 18px;
 
     text-align: left;
-}
-
-.main-box .topLine .heart:hover{
-    fill: #574AE8;
 }

@@ -1,15 +1,12 @@
 .main-header{
     width: 100%;
-    height: 250px;
+    height: 27vh;
+
+    color: #FFF;
 
     background: linear-gradient(88.27deg, #574AE8 0%, #3EA1DB 100%);
 }
 
-.content{
-    padding: 41px 270px;
-
-    color: #FFF;
-}
 
 .firstLine{
     display: flex;
